@@ -1,5 +1,5 @@
 async function getMod() {
-						return import('./yooqa-quiz_DXL_IxDJ.mjs');
+						return import('./yooqa-quiz_Ccm7-jQO.mjs');
 					}
 					const collectedLinks = [];
 					const collectedStyles = [];

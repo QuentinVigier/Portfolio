@@ -1,5 +1,5 @@
 async function getMod() {
-						return import('./calculatrice_CJrMEut6.mjs');
+						return import('./calculatrice_Duny44WR.mjs');
 					}
 					const collectedLinks = [];
 					const collectedStyles = [];
